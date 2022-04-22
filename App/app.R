@@ -67,7 +67,7 @@ server <- function(input, output) {
     toPlot<- team1 %>% rbind(team2)
     toPlot %>% ggplot( aes_string(x = "Season_End_Year", y = input$Statistic, color = "Squad", group = "Squad")) +
       geom_line() + geom_point() + labs(x = "Seasons", color = "Teams") + theme_classic() + scale_x_continuous(n.breaks = 10) + 
-      scale_y_continuous(n.breaks = 10)
+      scale_y_continuous(n.breaks = 10) + scale_color_manual(values=c('Blue','Red'))
   })
   
 }

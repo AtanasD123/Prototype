@@ -5,9 +5,9 @@ account: atanasd
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6145067
-bundleId: 5824414
+bundleId: 5824586
 url: https://atanasd.shinyapps.io/PrototypeAtanas/
-when: 1650590567.64492
-lastSyncTime: 1650590567.64493
+when: 1650595799.06747
+lastSyncTime: 1650595799.06749
 asMultiple: FALSE
 asStatic: FALSE
