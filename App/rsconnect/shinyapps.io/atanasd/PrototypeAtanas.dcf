@@ -1,0 +1,13 @@
+name: PrototypeAtanas
+title: PrototypeAtanas
+username:
+account: atanasd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6145067
+bundleId: 5824414
+url: https://atanasd.shinyapps.io/PrototypeAtanas/
+when: 1650590567.64492
+lastSyncTime: 1650590567.64493
+asMultiple: FALSE
+asStatic: FALSE
